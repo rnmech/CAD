@@ -1,4 +1,4 @@
-# Mechanical Deisgn Analyst
+# Mechanical Design Analyst
 
 ### Education
 
