@@ -5,4 +5,5 @@ remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
 linkedin_username: natarajanramakrishnan
+email: ramkrish2020@gmail.com
 ###########################################################
