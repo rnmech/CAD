@@ -1,3 +1,9 @@
 title: Ramakrishnan Natarajan
 description: Design Portfolio
 theme: jekyll-theme-minimal
+author:
+  social:
+    twitter: yourusername
+    github: yourusername
+    linkedin: yourusername
+    email: youremail@example.com
