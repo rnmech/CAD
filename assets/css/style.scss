@@ -3,5 +3,6 @@
 
 @import "{{ site.theme }}";
 //.view {
-//  display: none !important;
-//}
+.view {
+  display: none !important;
+}
