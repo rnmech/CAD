@@ -11,5 +11,5 @@ remote_theme: daattali/beautiful-jekyll@6.0.1
    # github: yourusername
     #linkedin: yourusername
     #email: youremail@example.com
-#plugins:
-#  - jekyll-remote-theme
+plugins:
+  - jekyll-remote-theme
