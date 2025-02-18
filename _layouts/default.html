@@ -25,13 +25,20 @@
         <p><strong>{{ site.description | default: site.github.project_tagline }}</strong></p>
         <!--<a href="https://www.linkedin.com/in/natarajanramakrishnan/" title="LinkedIn"></a></p>-->
         
+<div class="social-links">
         {% if site.linkedin_username %}
-        <div class="social-links">
         <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}" class="linkedin-link" target="_blank">
-          Connect on LinkedIn
-          </a>
-        </div>
+        LinkedIn
+        </a>
         {% endif %}
+
+        {% if site.email %}
+        <a href="mailto:{{ site.email }}" class="email-link">
+        Email
+        </a>
+        {% endif %}
+        </div>
+        }
         
         {% if site.github.is_project_page %}
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
