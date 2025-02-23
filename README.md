@@ -1,5 +1,5 @@
 # Resume
-Click [here](Resume.md){: .btn .btn-primary } for resume.
+Please click [here](Resume.md){: .btn .btn-primary } for my resume.
 
 # Projects
 
