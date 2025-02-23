@@ -6,5 +6,6 @@ plugins:
 - jekyll-remote-theme
 linkedin_username: natarajanramakrishnan
 email: ramkrish2020@gmail.com
-resume: Resume.md{: .btn .btn-primary }
+resume: Resume.md
+#{: .btn .btn-primary }
 ###########################################################
