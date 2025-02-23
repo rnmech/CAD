@@ -10,4 +10,4 @@ This project focused on enhancing the original Modular Potato Planter (V1.0) cre
 Click below to view the detailed video of the project.  
 [![IMAGE ALT TEXT](https://img.youtube.com/vi/kTgNhmcegps/0.jpg)](https://www.youtube.com/watch?v=kTgNhmcegps)  
 To explore the final 3D model files, access the full report, and the STL files used for 3D printing prototypes, [click here](https://github.com/rnmech/Fanshawe_AMD_Project.git)
-[Link to New Page](Resume.md)
+[Link to New Page](Resume.md){: .btn .btn-primary }
