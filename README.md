@@ -1,3 +1,6 @@
+# Resume
+Click [here](Resume.md){: .btn .btn-primary } for resume.
+
 # Projects
 
 - ## Reverse Engineering of Vacuum
