@@ -1,6 +1,7 @@
 # Resume
-### Please click [here](Resume.md){: .btn .btn-primary } for my resume.
-
+<!-- ### Please click [here](Resume.md){: .btn .btn-primary } for my resume. -->
+ ### Please click [here]([Resume.md](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/rnmech/CAD/main/docs/Ramakrishnan_Git_Resume.pdf)){: .btn .btn-primary } for my resume.
+ 
 # Projects
 
 - ## Reverse Engineering of Vacuum
