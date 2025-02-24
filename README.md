@@ -1,6 +1,6 @@
 # Resume
 <!-- ### Please click [here](Resume.md){: .btn .btn-primary } for my resume. -->
- ### Please click [here](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/rnmech/CAD/main/docs/Ramakrishnan_Git_Resume.pdf) for my resume.
+### Please click [here](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/rnmech/CAD/main/docs/Ramakrishnan_Git_Resume.pdf) for my resume.
  
 # Projects
 
